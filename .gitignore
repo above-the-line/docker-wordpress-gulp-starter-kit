@@ -41,3 +41,5 @@ dist/*
 !**/dist/
 assets/icons
 _normalize.scss
+.data
+.data/*

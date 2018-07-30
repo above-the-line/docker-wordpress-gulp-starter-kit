@@ -27,7 +27,7 @@ Domain Path: #{metadata(theme-text-domain-path)}
 */
 
 // Normalize: make browsers render things more consistently
-@import "normalize";
+@import "normalize.css";
 
 // Reset: eliminate default browser styling (optional; commented out by default)
 //@import "reset";
